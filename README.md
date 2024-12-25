@@ -1,10 +1,10 @@
 # Movie-Recommendation-System
 
-Overview
+# Overview
 
 The Movie Recommendation System is a machine learning-based project designed to predict and suggest movies to users based on their preferences and metadata from a dataset. This system leverages similarity measures to provide personalized recommendations, ensuring an enhanced user experience.
 
-Features
+# Features
 
 Suggests movies based on user preferences.
 
@@ -14,11 +14,11 @@ Utilizes popular libraries like pandas, numpy, and scikit-learn for data process
 
 Visualizes data insights using matplotlib and seaborn.
 
-Dataset
+# Dataset
 
 This project uses the Movies Recommendation.csv dataset. The dataset contains metadata about movies, including information like titles, genres, and other relevant features.
 
-How It Works
+# How It Works
 
 Data Loading:
 
@@ -50,7 +50,7 @@ Generates plots to showcase genre distributions or similarity relationships.
 
 Provides insights into recommendation logic through graphical representations.
 
-Requirements
+# Requirements
 
 To run this project, install the following dependencies:
 
@@ -70,7 +70,7 @@ Install the required libraries using pip:
 
 pip install pandas numpy scikit-learn seaborn matplotlib
 
-Usage
+# Usage
 
 Clone this repository:
 
@@ -96,7 +96,7 @@ Step 4: Apply the cosine similarity algorithm to find similar movies.
 
 Step 5: Visualize results and analyze the output.
 
-Example Output
+# Example Output
 
 After running the notebook, the system will display movie recommendations based on the input preferences or metadata.
 
@@ -112,15 +112,12 @@ Recommended Movies:
 
 Visualization plots will provide insights into the dataset and the recommendation process, such as genre distributions or similarity metrics.
 
-Contributing
+# Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request with your improvements or suggestions.
 
-License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Acknowledgments
+# Acknowledgments
 
 Special thanks to the creators of the Movies Recommendation.csv dataset.
 
