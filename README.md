@@ -47,6 +47,12 @@ Install the required libraries using pip:
 pip install pandas numpy scikit-learn seaborn matplotlib
 
 
+## Usage
+Follow these steps to use the project:
+
+1. Clone this repository: git clone https://github.com/yourusername/Movie-Recommendation-System.git
+
+ 
 
 
 
